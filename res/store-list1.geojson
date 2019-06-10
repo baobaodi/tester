@@ -1,0 +1,6095 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.154251,
+          22.282740
+        ]
+      },
+      "properties": {
+        "store no": "3214",
+        "channel": "Escapade Sports (Central)",
+        "address_EN": "1/F, 30-34 Cochrane St, Central",
+        "district": "Central",
+        "area": "Hong Kong",
+        "phone": "2851 0769",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "e"
+      }
+    },
+	
+	
+	
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.191600,
+          22.283209
+        ]
+      },
+      "properties": {
+        "store no": "3215",
+        "channel": "Victoria Pro Shop",
+        "address_EN": "17-19 G/F Electric Road, Tin Hau",
+        "district": "Tin Hau",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "v"
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.181620,22.2770299
+        ]
+      },
+      "properties": {
+        "store no": "3216",
+        "channel": "Escapade Sports (Causeway Bay)",
+        "address_EN": "1/F, 19 Leighton Road, Causeway Bay",
+        "district": "Causeway Bay",
+        "area": "Hong Kong",
+        "phone": "2891 1855",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "e"
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1729233,22.3028903
+        ]
+      },
+      "properties": {
+        "store no": "3217",
+        "channel": "CYF Badminton Company",
+        "address_EN": "G/F 39 Hillwood Road, Tsim Sha Tsui, Kowloon",
+        "district": "Kowloon",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "e"
+      }
+    },
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1707548,
+          22.3191154
+        ]
+      },
+      "properties": {
+        "store no": "3218",
+        "channel": "Well Mount Sports Company",
+        "address_EN": "2/F 87-89 Fa Yuen Street Mong Kok, Kowloon",
+        "district": "Kowloon",
+        "area": "Hong Kong",
+        "phone": "(852) 64847717",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "w"
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.170836,
+          22.3186119
+        ]
+      },
+      "properties": {
+        "store no": "3219",
+        "channel": "World Sports Company",
+        "address_EN": "M/F, Hong Ning Hse, 83-85 Fa Yuen St, Mong Kok, Kowloon, Hong Kong",
+        "district": "Kowloon",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "w"
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.172200,
+          22.306300
+        ]
+      },
+      "properties": {
+        "store no": "3220",
+        "channel": "DM Sports",
+        "address_EN": "G/F, Shop 20, David House, 8-20 Nanking Street, Kowloon",
+        "district": "Kowloon",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "d"
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.189402,
+          22.304963
+        ]
+      },
+      "properties": {
+        "store no": "3221",
+        "channel": "Sportshouse",
+        "address_EN": "Shop No. G18A, G/F & B14-15, Basement, Fashion World Whampoa Garden Site 2, Hunghom, KLN",
+        "district": "Kowloon",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "s"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.196950,
+          22.336240
+        ]
+      },
+      "properties": {
+        "store no": "3222",
+        "channel": "Infinite Sports",
+        "address_EN": "23 Tseuk Luk St, San Po Kong",
+        "district": "San Po Kong",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "i"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.226550,
+          22.311590
+        ]
+      },
+      "properties": {
+        "store no": "3223",
+        "channel": "The 2008",
+        "address_EN": "Liadro Centre, 72-80 Hoi Yuen Rd, Kwun Tong",
+        "district": "Kwun Tong",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "i"
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.264247,
+          22.316858
+        ]
+      },
+      "properties": {
+        "store no": "3224",
+        "channel": "Sport Point ",
+        "address_EN": "Shop E158, 1/F TKO Gateway East Wing, Hau Tak Estate, Sheung Ning Rd, Tseung Kwan O",
+        "district": "Tseung Kwan O",
+        "area": "Hong Kong",
+        "phone": "2705 2008",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "s"
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.262531,
+          22.308944
+        ]
+      },
+      "properties": {
+        "store no": "3225",
+        "channel": "Running Men",
+        "address_EN": "L1-033 TKO Plaza, 1 Tong Tak St, Tseung Kwan O",
+        "district": "Tseung Kwan O",
+        "area": "Hong Kong",
+        "phone": "2157 0288",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "i"
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.257364, 22.320762
+        ]
+      },
+      "properties": {
+        "store no": "8222",
+        "channel": "Gallop Sports Products",
+        "address_EN": "Shop G38-39 G/F, Metro City Plaza Phase 1,  Tseung Kwan O",
+        "district": "Tseung Kwan O",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "i"
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0255664,22.4440699
+        ]
+      },
+      "properties": {
+        "store no": "9222",
+        "channel": "Sport Nova",
+        "address_EN": "M/F Lee King Lau, 17-19 Hong King Street, Yuen Long, N.T.",
+        "district": "Yuen Long",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "i"
+      }
+    },
+
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0226162,22.444294
+        ]
+      },
+      "properties": {
+        "store no": "10222",
+        "channel": "Tung Yuet",
+        "address_EN": "G/F, Fook Hing Bldg, 232 Main Road, Yuen Long",
+        "district": "Yuen Long",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "i"
+      }
+    },
+
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0160501,22.4443186
+        ]
+      },
+      "properties": {
+        "store no": "11222",
+        "channel": "Speed Sportswear Co",
+        "address_EN": "Shop L108, 1/F Long Ping Shopping Center, 1 Long Ping Road, Yuen Long",
+        "district": "Yuen Long",
+        "area": "Hong Kong",
+        "phone": "",
+        "hours": "10:00am-11:00pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "i"
+      }
+    },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.0004102,22.4492863
+         ]
+       },
+       "properties": {
+         "store no": "12222",
+         "channel": "Speed Sportswear Co",
+         "address_EN": "3 Tin Ching Street, Tin Shui Wai",
+        "district": "Tin Shui Wai",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           113.976432,
+           22.393206
+         ]
+       },
+       "properties": {
+         "store no": "3231",
+         "channel": "Sportshouse",
+         "address_EN": "Shop No. 3207, 3/F, Tuen Mun Town Plaza Phase 1, 1 Tuen Shun Street, Tuen Mun, N.T.",
+         "district": "Tuen Mun",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.173810,
+           22.297650
+         ]
+       },
+       "properties": {
+         "store no": "3232",
+         "channel": "Sportshouse",
+         "address_EN": "Shop No. 222, K11 Art Mall,18 Hanoi Road, Tsim Sha Tsui, KLN",
+         "district": "Kowloon",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.184290,
+           22.280440
+         ]
+       },
+       "properties": {
+         "store no": "3233",
+         "channel": "SOGO",
+         "address_EN": "555 Hennessy Road, Causeway Bay",
+         "district": "Causeway Bay",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.208140,
+           22.319810
+         ]
+       },
+       "properties": {
+         "store no": "32344",
+         "channel": "AEON",
+         "address_EN": "L1 & L2 MegaBox, 38 Wang Chiu Rd,Kowloon Bay",
+         "district": "Kowloon Bay",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.189964,
+           22.303889
+         ]
+       },
+       "properties": {
+         "store no": "3235",
+         "channel": "AEON",
+         "address_EN": "G/F & Basement One, Site 5 & 6, Wonderful Worlds of Whampoa",
+         "district": "Kowloon",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.159956,
+           22.331014
+         ]
+       },
+       "properties": {
+         "store no": "3237",
+         "channel": "Sincere Department Store",
+         "address_EN": "L1-3 Dragon Centre, Sham Shui Po",
+         "district": "Sham Shui Po",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.171738,
+           22.299602
+         ]
+       },
+       "properties": {
+         "store no": "3238",
+         "channel": "Yue Hwa",
+         "address_EN": "Shop G40, G/F, Parklane Shopper's Boulevard, Tsim Sha Tsui",
+         "district": "Kowloon",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           114.171090,
+           22.307440
+         ]
+       },
+       "properties": {
+         "store no": "3239",
+         "channel": "Wing On Department Store",
+         "address_EN": "345 Nathan Road, Jordan, Kowloon",
+         "district": "Kowloon",
+         "area": "Hong Kong",
+         "phone": "",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7617735,
+          1.4617089
+        ]
+      },
+      "properties": {
+        "store no": "31224",
+        "channel": "Royal Sporting House (City Square)",
+        "address_EN": "Johor Bahru City Square, No. 106-108, M2-22, Jalan Wong Ah Fook, Johor, 80000 Johor Bahru, Malaysia",
+        "district": "Taman Desa Tebrau",
+        "area": "Malaysia",
+        "phone": "(60) 07-221 1798",
+        "hours": "11:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "r"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7135992,
+          2.9679429
+        ]
+      },
+      "properties": {
+        "store no": "31225",
+        "channel": "Royal Sporting House (IOI City Mall)",
+"address_EN": "AT 6, Level 1, IOI City Mall, Lebuh IRC, IOI Resort City, IOI Resort City, 62502 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia, 62502 Putrajaya, Malaysia",
+        "district": "Bandar Sunway",
+        "area": "Malaysia",
+        "phone": "(60) 03-8953 8565",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "r"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.6846378,
+            3.1330476
+        ]
+      },
+      "properties": {
+        "store no": "31226",
+        "channel": "Royal Sporting House (NU Sentral)",
+"address_EN": "L2-03, NU Sentral, Jalan Stesen Sentral 5, Brickfields, Wilayah Persekutuan, 50470 Kuala Lumpur, Malaysia",
+        "district": "Kuala Lumpur",
+        "area": "Malaysia",
+        "phone": "(60) 03-2272 2102",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "s"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3043396,
+          5.3330541
+        ]
+      },
+      "properties": {
+        "store no": "31227",
+        "channel": "Royal Sporting House (Queensbay Mall)",
+"address_EN": "1 F - 57 & 58, Queensbay Mall, Persiaran Bayan Indah, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+        "district": "Bayan Baru",
+        "area": "Malaysia",
+        "phone": "(60) 04-642 3552",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "r"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7941403,
+          1.5494834
+        ]
+      },
+      "properties": {
+        "store no": "31228",
+        "channel": "Royal Sporting House (Tebrau City)",
+"address_EN": "118, Jln Harmonium 24/2, Taman Desa Tebrau, 81100 Johor Bahru, Johor, Malaysia",
+        "district": "Taman Desa Tebrau",
+        "area": "Malaysia",
+        "phone": "(60) 07-351 6578",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "r"
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7102684,
+          3.1581836
+        ]
+      },
+      "properties": {
+        "store no": "31229",
+        "channel": "Stadium (KLCC)",
+"address_EN": "Fourth Level 431 Suria KLCC, Kuala Lumpur City Center, Malaysia",
+        "district": "Kuala Lumpur",
+        "area": "Malaysia",
+        "phone": "(60) 03-21617199/03-21617177",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "r"
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6760437,
+          3.1185897
+        ]
+      },
+      "properties": {
+        "store no": "31231",
+        "channel": "Stadium (Mid Valley)",
+"address_EN": "Shop T-010, Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+        "district": "Kuala Lumpur",
+        "area": "Malaysia",
+        "phone": "(60) 03-2284 6392",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "s"
+      }
+    },
+
+
+
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.7113446,
+            3.1492624
+        ]
+      },
+      "properties": {
+        "store no": "31232",
+        "channel": "Stadium (Pavilion)",
+"address_EN": "Pavilion, Lot5.01B, Jalan Bukit Bintang, Bukit Bintang, Wilayah Persekutuan, 55100 Kuala Lumpur, Malaysia",
+        "district": "Kuala Lumpur",
+        "area": "Malaysia",
+        "phone": "(60) 03-21415903 & 03-21415908",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "s"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.6133377,
+            3.150191
+        ]
+      },
+      "properties": {
+        "store no": "31233",
+        "channel": "Studio R (Bandar Utama)",
+"address_EN": "Lot LG307, Lower Ground Floor, 1 Utama Shopping Centre, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",
+        "district": "Bandar Sunway",
+        "area": "Malaysia",
+        "phone": "(60) 03-7728 0978",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "s"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            101.6047676,
+            3.0717913
+        ]
+      },
+      "properties": {
+        "store no": "31234",
+        "channel": "Studio R (Sunway Pyramid)",
+"address_EN": "LG1.98 Sunway Pyramid, Shopping Mall, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia.",
+        "district": "Bandar Sunway",
+        "area": "Malaysia",
+        "phone": "(60) 03-7492 2068",
+        "hours": "10:00am-10pm Daily",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "s"
+      }
+    },
+
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             103.8292649,
+             1.3057385
+         ]
+       },
+       "properties": {
+         "store no": "31235",
+         "channel": "Isetan",
+         "address_EN": "350 Orchard Road, Shaw House, Singapore 238868",
+         "district": "Singapore",
+         "area": "Singapore",
+         "phone": "+65 6235 2077",
+         "hours": "10:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             103.8551711,
+             1.2912027
+         ]
+       },
+       "properties": {
+         "store no": "31236",
+         "channel": "Key Power Sports(Marina Square)",
+         "address_EN": "#03-137 Marina Square, 6 Raffles Boulevard, Singapore 039594",
+         "district": "Singapore",
+         "area": "Singapore",
+         "phone": "+65 6337 1962 ",
+         "hours": "11:00am-9pm Daily",
+		 "website": "https://keypowersports.sg/collections/",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "k"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             103.8417851,
+             1.3056301
+         ]
+       },
+       "properties": {
+         "store no": "31237",
+         "channel": "Key Power Sports(Novena Square)",
+         "address_EN": "#02-48 Velocity @ Novena Square, 238 Thomson Road, Singapore 307683",
+         "district": "Singapore",
+         "area": "Singapore",
+         "phone": "+65 6250 6282",
+         "hours": "11:00am-9pm Daily",
+		 "website": "https://keypowersports.sg/",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "k"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             103.8681879,
+             1.3272591
+         ]
+       },
+       "properties": {
+         "store no": "31238",
+         "channel": "Key Power Sports (Changi City Point)",
+         "address_EN": "02-26 Changi City Point Mall, 5 Changi Business Park Central 1, Singapore 486038",
+         "district": "Singapore",
+         "area": "Singapore",
+         "phone": "+65 6604 8824",
+         "hours": "11:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "k"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             103.8326245,
+             1.3029414
+         ]
+       },
+       "properties": {
+         "store no": "31239",
+         "channel": "Takashimaya",
+         "address_EN": "L4 Takashimaya Department Store, 391 Orchard Road, Singapore 238873",
+         "district": "Singapore",
+         "area": "Singapore",
+         "phone": "+65 6506 0367",
+         "hours": "11:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "t"
+       }
+     },
+
+
+
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5260609,
+             13.903498
+         ]
+       },
+       "properties": {
+         "store no": "31240",
+         "channel": "Central Plaza Chaengwattan",
+         "address_EN": "Sports Zone #237 2/F Central Plaza Chaengwattan, 99/9 Chaeng Wattana-Parkkred 19 Alley, Pak Kret District, Nonthaburi 11120",
+         "district": "Sarawan Ville",
+         "area": "Thailand",
+         "phone": "06 3968 1177",
+         "hours": "10:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "c"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5639233,
+             13.7585062
+         ]
+       },
+       "properties": {
+         "store no": "31241",
+         "channel": "Central Plaza Grand Rama IX",
+         "address_EN": "C704, 7/F Central Plaza Grand Rama IX, 9/9 Thanon Rama 9, Huaykwang, Bangkok 10320",
+         "district": "Din Daeng",
+         "area": "Thailand",
+         "phone": "02 021 9999, 06 4302 1971",
+         "hours": "10:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "c"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.558962,
+             13.816451
+         ]
+       },
+       "properties": {
+         "store no": "31242",
+         "channel": "Central Plaza Ladprao",
+         "address_EN": "C301, 3/F Central Plaza Ladprao, 1693 Phahonyothin Rd, Chatuchak, Bangkok 10900",
+         "district": "Lat Yao",
+         "area": "Thailand",
+         "phone": "02 793 6000",
+         "hours": "10:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "c"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.4743182,
+             13.7780635
+         ]
+       },
+       "properties": {
+         "store no": "31243",
+         "channel": "Central Plaza Pinklao",
+         "address_EN": "C209, 2/F Central Plaza Pinklao, 7/222 Borommaratchachonnani Rd, Bangkok Noi, Bangkok 10700",
+         "district": "Arun Amarin",
+         "area": "Thailand",
+         "phone": "02 877 5000",
+         "hours": "10:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "c"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6125063,
+             13.8052461
+         ]
+       },
+       "properties": {
+         "store no": "31244",
+         "channel": "Cycling Cafe",
+         "address_EN": "176 Virgin Active Zone, CentralFestival EastVille, 69 Soi Pradit Manutham 15, Latphrao, Latphrao, Bangkok 10230",
+         "district": "Lat Phrao",
+         "area": "Thailand",
+         "phone": "06 2546 6294",
+         "hours": "6:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "c"
+       }
+     },
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             98.9727642,
+             18.7690061
+         ]
+       },
+       "properties": {
+         "store no": "31245",
+         "channel": "Energy By Sandy",
+         "address_EN": "2/F Central Plaza Chiangmai Airport, Aquarium Zone, Mahidol Road, Chiangmai 50100",
+         "district": "Wiang Phing Village",
+         "area": "Thailand",
+         "phone": "06 1890 6685",
+         "hours": "11:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "e"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6780099,
+             13.6465997
+         ]
+       },
+       "properties": {
+         "store no": "3246",
+         "channel": "Harbinger (Mega Bangna)",
+         "address_EN": "OP2059 2/F Sports Zone, 38 Bangna-Trad Road, Bangkaew, Bangplee, Samutprakarn 10540",
+         "district": "Kritsada Nakhon Village",
+         "area": "Thailand",
+         "phone": "0 2105 1470",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "h"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.4734067,
+             13.7776994
+         ]
+       },
+       "properties": {
+         "store no": "3247",
+         "channel": "REV RUNNR (Central Plaza PinkLao)",
+         "address_EN": "Level 2, Central Plaza Pinklao, 7/1 Boromratchonnani Road, Arun-Amarin, Bankoknoi, Bangkok 10700",
+         "district": "Arun Amarin",
+         "area": "Thailand",
+         "phone": "+66 2433 7159",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "h"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5371728,
+             13.7466018
+         ]
+       },
+       "properties": {
+         "store no": "3248",
+         "channel": "REV RUNNR (Central World)",
+         "address_EN": "3/F Central World, 999/9 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+         "district": "เขต ราชเทวี",
+         "area": "Thailand",
+         "phone": "+666 3837 2287",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5667304,
+             13.7306707
+         ]
+       },
+       "properties": {
+         "store no": "3249",
+         "channel": "REV RUNNR (Emporium)",
+         "address_EN": "2/F Sports Mall Emporium, 622 Sukhumvit Rd, Khwang Khong Tan Khet Khlong Toei BKK 10110.",
+         "district": "Methi Niwet Village",
+         "area": "Thailand",
+         "phone": "+662 269 1000 ext. 1733",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6783126,
+             13.6469633
+         ]
+       },
+       "properties": {
+         "store no": "3250",
+         "channel": "REV RUNNR (Mega Bangna)",
+         "address_EN": "GO SPORTS 2/F Mega Bangna, 38-39 Bangna - Trad Road, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan (1,717.49 km) 10540 Bang Phli, Samut Prakan, Thailand",
+         "district": "Kritsada Nakhon Village",
+         "area": "Thailand",
+         "phone": "+66 2 105 1703",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5378266,
+             13.7481098
+         ]
+       },
+       "properties": {
+         "store no": "3251",
+         "channel": "REV RUNNR (Sports Mall Paragon)",
+         "address_EN": "Sports Mall 2/F Siam Paragon, 991/1 Rama 1 Road, Pathumwan Pathumwan 10330",
+         "district": "ขต ราชเทวี",
+         "area": "Thailand",
+         "phone": "+668 6095 5072",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6745088,
+             13.8266717
+         ]
+       },
+       "properties": {
+         "store no": "3252",
+         "channel": "REV RUNNR (Sports World Fashion Island)",
+         "address_EN": "2/f Fashion Island, 587,589, 589/7-9 Ram Intra Road, Khannayao Sub-district,  Khan Na Yao, Bangkok 10230, Thailand",
+         "district": "Ram Inthra",
+         "area": "Thailand",
+         "phone": "+66 2 947 5185",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             98.2972472,
+             7.892167
+         ]
+       },
+       "properties": {
+         "store no": "3253",
+         "channel": "REV RUNNR (Sports World Jungceylon)",
+         "address_EN": "1/f Jungceylon, 181 Rat-u-thit 200 Pee Road, Tabol Patong, Amphur Kratu, Patong",
+         "district": "Ban Paramet",
+         "area": "Thailand",
+         "phone": "+66 76 600 045",
+         "hours": "10:00am-11pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5366146,
+             13.7460094
+         ]
+       },
+       "properties": {
+         "store no": "3254",
+         "channel": "REV RUNNR (Supersports Central World)",
+         "address_EN": "3/F Central World, 999/9 Rama I Rd, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+         "district": "เขต ราชเทวี",
+         "area": "Thailand",
+         "phone": "+669 4710 6359",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6783661,
+             13.6471505
+         ]
+       },
+       "properties": {
+         "store no": "3255",
+         "channel": "REV RUNNR (Supersports Mage Bangna)",
+         "address_EN": "2/F Mega Bangna, 38-39 Bangna - Trad Road, Tambon Bang Kaeo, Amphoe Bang Phli, Chang Wat Samut Prakan (1,717.49 km) 10540 Bang Phli, Samut Prakan, Thailand",
+         "district": "Wichittra Thani Village",
+         "area": "Thailand",
+         "phone": "+666 2929 1183",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5580364,
+             13.7375531
+         ]
+       },
+       "properties": {
+         "store no": "3256",
+         "channel": "REV RUNNR (Terminal 21 Asok)",
+         "address_EN": "2055 2/F, Terminal 21 Asok, 88 Soi Sukhumvit 19, Khwaeng Khlong Toei Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailand",
+         "district": "Khlong Toei Nuea",
+         "area": "Thailand",
+         "phone": "+66 2 108 6544",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.8864898,
+             12.9502107
+         ]
+       },
+       "properties": {
+         "store no": "3257",
+         "channel": "REV RUNNR (Terminal 21 Pattaya)",
+         "address_EN": "M/F - London Street, Terminal 21 Pattaya, 456, 777, 777/1 Moo 6 Na Kluea, Bang La mung, Chonburi 20150",
+         "district": "Na Kluea",
+         "area": "Thailand",
+         "phone": "+66 33 252 218",
+         "hours": "10:00am-11pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.4057522,
+             13.7136921
+         ]
+       },
+       "properties": {
+         "store no": "3258",
+         "channel": "REV RUNNR (The Mall Bangkae)",
+         "address_EN": "2/F The Mall Bangkae Sports Mall, 275 Petchakasem Road, Bangkae Noey, Bangkae, Bangkok 10160",
+         "district": "Bang Khae",
+         "area": "Thailand",
+         "phone": "+662 487 1000 ext. 175",
+         "hours": "10:00am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6403032,
+             13.766061
+         ]
+       },
+       "properties": {
+         "store no": "3259",
+         "channel": "REV RUNNR (The Mall Bankapi)",
+         "address_EN": "2/F The Mall Bankapi Sports Mall, 3522 Larprao Rd, Klongjan, Bangkapi, Bangkok 10240 Thailand",
+         "district": "Bang Kapi",
+         "area": "Thailand",
+         "phone": "+668 3073 2024",
+         "hours": "10:30am-10pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             102.0751192,
+             14.9986403
+         ]
+       },
+       "properties": {
+         "store no": "3260",
+         "channel": "REV RUNNR (The Mall Korat)",
+         "address_EN": "Level 2, The Mall Korat, 1242/2 Mittraphap Rd, Tambon Nai Mueang, Amphoe Mueang Nakhon Ratchasima, Chang Wat Nakhon Ratchasima 30000, Thailand",
+         "district": "Ratchathani Village",
+         "area": "Thailand",
+         "phone": "+66 44 390 510",
+         "hours": "10:00am-9pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6152863,
+             13.9888187
+         ]
+       },
+       "properties": {
+         "store no": "3261",
+         "channel": "REV RUNNR (Zpell)",
+         "address_EN": "Ground floor, Zpell, 94 Future Park , Phahonyothin Road, Prachatipat Thanyaburi Phathutani Bangkok, Thailand",
+         "district": "คลองสาม",
+         "area": "Thailand",
+         "phone": "+66 2 150 9212",
+         "hours": "10:30am-9:30pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             99.0169153,
+             18.8005031
+         ]
+       },
+       "properties": {
+         "store no": "3262",
+         "channel": "Sandy Health Shop",
+         "address_EN": "8/6 Star Avenue 2 (near 7-Eleven), Chiangmai-Lampang Road, Watkate, Chiangmai",
+         "district": "Chiangmai",
+         "area": "Thailand",
+         "phone": "08 6324 7472",
+         "hours": "9:90am-7:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6745088,
+             13.8266717
+         ]
+       },
+       "properties": {
+         "store no": "3263",
+         "channel": "Strong Whey (The Promenade)",
+         "address_EN": "2/F The Promenade, 587 Ram-Intra Rd Khan Na Yao, Khan Na Yao, Bangkok 10230",
+         "district": "Khan Na Yao",
+         "area": "Thailand",
+         "phone": "08 9110 6111",
+         "hours": "10:00am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5667304,
+             13.7306707
+         ]
+       },
+       "properties": {
+         "store no": "32642",
+         "channel": "The Emporium Shopping Complex",
+         "address_EN": "Sports Mall, 2/F The Emporium Shopping Complex, 662 Sukhunvit Road, Klongton, Bangkok 10110",
+         "district": "空堤县",
+         "area": "Thailand",
+         "phone": "+66 2 269 1000",
+         "hours": "10:00am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "t"
+       }
+     },
+
+
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.6402885,
+             13.7664722
+         ]
+       },
+       "properties": {
+         "store no": "31264",
+         "channel": "The Mall Bankapi Sports Mall",
+         "address_EN": "Sports Mall, 2/F The Mall Bankapi, 3522 Larprao Rd, Klongjan, Bangkapi, Bangkok 10240 Thailand",
+         "district": "Khan Na Yao",
+         "area": "Thailand",
+         "phone": "0000 0000",
+         "hours": "10:00am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "t"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5399113,
+             13.8551348
+         ]
+       },
+       "properties": {
+         "store no": "3264",
+         "channel": "The Mall Ngamwongwan Sports Mall",
+         "address_EN": "Sports Mall, 4/F, The Mall Ngamwongwan 30/39-50 Ngamwongwan Road, Bangkhaen, Muang, Nontaburi 11000",
+         "district": "นนทบุรี",
+         "area": "Thailand",
+         "phone": "02555 1000",
+         "hours": "10:30am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "t"
+       }
+     },
+
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5581938,
+             13.737702
+         ]
+       },
+       "properties": {
+         "store no": "3265",
+         "channel": "This Shop For Men (Sukhumvit Road)",
+         "address_EN": "#2072, 2/F Terminal 21, 88 Sukhumvit 19 Road (Wattana), Khlongton-nue, Wattana, Bangkok 10110",
+         "district": "Bangkok",
+         "area": "Thailand",
+         "phone": "0 2254 9470",
+         "hours": "10:00am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "t"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             100.5086186,
+             13.7282192
+         ]
+       },
+       "properties": {
+         "store no": "3266",
+         "channel": "This Shop For Men (Yada Silom)",
+         "address_EN": "D39 Yada Alley, Silom Road, Suriwongse, Bangrak, Bangkok 10500",
+         "district": "Bangkok",
+         "area": "Thailand",
+         "phone": "09 1775 4071",
+         "hours": "10:30am-9:30pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "t"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.8245376,
+             -6.2238987
+         ]
+       },
+       "properties": {
+         "store no": "3267",
+         "channel": "Mal Ambasador",
+         "address_EN": "Jl. Prof. DR. Satrio No 4, RT11/RW4, Kuningan, Karet Kuningan, Kecamatan Setiabudi, Jakarta Selatan.",
+         "district": "Jakarta",
+         "area": "Indonesia",
+         "phone": "0000 0000",
+         "hours": "10:00am-11:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "m"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.8157296,
+             -6.223541
+         ]
+       },
+       "properties": {
+         "store no": "3268",
+         "channel": "PeeBee Outdoor",
+         "address_EN": "FX Sudirman, Jl. Jend. Sudirman RT 1/RW 3, Gelora, Tanah Abang",
+         "district": "Jakarta",
+         "area": "Indonesia",
+         "phone": "+62 21 25554600",
+         "hours": "10:00am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "p"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.7544439,
+             -6.2233443
+         ]
+       },
+       "properties": {
+         "store no": "3269",
+         "channel": "Prima Fit (Emporium Pluit Mall)",
+         "address_EN": "Emporium Pluit Mall, Lantai 1 #22, Jl. Pluit Selatan Raya No.1, RT.23/RW.8, 16, Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14440",
+         "district": "Jakarta",
+         "area": "Indonesia",
+         "phone": "+62 21 6667 6804 / +62 811 183 590",
+         "hours": "Daily: 10:00am - 10:00pm",
+		 "website": "https://www.primafit.com/primafit-retail/",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "p"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.781193,
+             -6.2447797
+         ]
+       },
+       "properties": {
+         "store no": "3270",
+         "channel": "Prima Fit (Gandaria City)",
+         "address_EN": "Gandaria City, Lantai 1 #128, Jl. Sultan Iskandar Muda, RT.10/RW.6, Kby. Lama Utara, Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240",
+         "district": "Jakarta",
+         "area": "Indonesia",
+         "phone": "+62 21 2900 7855 / +62 812 109 1420",
+         "hours": "Daily: 10:00am - 10:00pm",
+		 "website": "https://www.primafit.com/primafit-retail/",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "p"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.8408776,
+             -6.2242091
+         ]
+       },
+       "properties": {
+         "store no": "3271",
+         "channel": "Prima Fit (Kota Kasablanka)",
+         "address_EN": "Kota Kasablanka, Lantai 1 #109, Jl. Casablanca No.88, RT.14/RW.5, Menteng Dalam, Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870",
+         "district": "Jakarta",
+         "area": "Indonesia",
+         "phone": "+62 21 2946 4970 / +62 813 8046 4935",
+         "hours": "Daily: 10:00am - 10:00pm",
+		 "website": "https://www.primafit.com/primafit-retail/",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "p"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             112.6737477,
+             -7.2892435
+         ]
+       },
+       "properties": {
+         "store no": "3272",
+         "channel": "Prima Fit (Pakuwon Mall)",
+         "address_EN": "Pakuwon Mall, Lantai 1 #51, Jl. Puncak Indah Lontar No. 2, Babatan, Wiyung, Babatan, Wiyung, Kota SBY, Jawa Timur 60123",
+         "district": "Surabaya",
+         "area": "Indonesia",
+         "phone": "+62 31 739 2371  / +62 811 1096 026 ",
+         "hours": "Daily: 10:00am - 10:00pm",
+		 "website": "https://www.primafit.com/primafit-retail/",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "p"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.8193178,
+             -6.1931363
+         ]
+       },
+       "properties": {
+         "store no": "3273",
+         "channel": "Prima Fit (Plaza Indonesia)",
+         "address_EN": "Plaza Indonesia, Lantai 3 #81, Jl. M.H. Thamrin No.Kav. 28-30, RT.9/RW.5, Gondangdia, Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+         "district": "Jakarta",
+         "area": "Indonesia",
+         "phone": "+62 21 2992 4221 / +62 811 183 570",
+         "hours": "Daily: 10:00am - 10:00pm",
+		 "website": "https://www.primafit.com/primafit-retail/",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "p"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.6572546,
+             -6.2312751
+         ]
+       },
+       "properties": {
+         "store no": "3274",
+         "channel": "Run2Tri (Alam Sutera)",
+         "address_EN": "Jl. Jalur Sutera 25BC No B-01, Alam Sutra, Pakualam, Tangerang, Banten",
+         "district": "Banten",
+         "area": "Indonesia",
+         "phone": "+62 21 30032239",
+         "hours": "8:00am-7:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "p"
+       }
+     },
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.8159073,
+             -6.2089717
+         ]
+       },
+       "properties": {
+         "store no": "3275",
+         "channel": "Run2Tri (Citywalk)",
+         "address_EN": "KH. Mas Mansyur Kav 121 lantai 2 RT10/RW11, Karet Tengsin, Jakarta Pusat",
+         "district": "Jakarta Pusat",
+         "area": "Indonesia",
+         "phone": "+62 21 29959898",
+         "hours": "10:00am-8:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.7423863,-6.1117997
+         ]
+       },
+       "properties": {
+         "store no": "3276",
+         "channel": "Run2Tri (PIK)",
+         "address_EN": "Ruko Cordoba Blok H No 68, Jl. Pantai Indah Kapuk, RT 7/ RW 2, Jakarta Utara",
+         "district": "Jakarta Utara",
+         "area": "Indonesia",
+         "phone": "+62 21 22512558",
+         "hours": "10:00am-6:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.7969613,-6.2249847
+         ]
+       },
+       "properties": {
+         "store no": "3277",
+         "channel": "Run2Tri (STC)",
+         "address_EN": "STC Senayan 2nd Floor No 1030, Jl. Asia Afrika Pintu IX Gelora RT1/ RW3, Jakarta",
+         "district": "Jakarta",
+         "area": "Indonesia",
+         "phone": "+62 21 57931860",
+         "hours": "10:00am-6:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "r"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             106.7995012,-6.2535556
+         ]
+       },
+       "properties": {
+         "store no": "3278",
+         "channel": "SukaOutdoor",
+         "address_EN": "Darmawangsa Square Lt.2 #34, Jl. Darmawangsa 6, RT 5/RW 1, Kebayoran Baru, Jakarta Selatan",
+         "district": "Jakarta Selatan",
+         "area": "Indonesia",
+         "phone": "+62 21 72787280",
+         "hours": "9:00am-9:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "s"
+       }
+     },
+
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5584965,25.0331159
+         ]
+       },
+       "properties": {
+         "store no": "3279",
+         "channel": "F1 Recreation",
+         "address_EN": "2B No. 415, Section 4, Xinyi Road, Da’an District, Taipei City, Taiwan 106",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "+(886) 8789-3088",
+         "hours": "10:00am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5670343,
+             25.0355494
+         ]
+       },
+       "properties": {
+         "store no": "32792",
+         "channel": "Fitness Factory (Xinyi Gym)",
+         "address_EN": "4/F No. 22, Songshou Road, Xinyi District, Taipei City, Taiwan 110",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 8786-1966",
+         "hours": "10:00am-10:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4875592,
+             25.0743589
+         ]
+       },
+       "properties": {
+         "store no": "3280",
+         "channel": "Fitness Factory (Sanchong Gym)",
+         "address_EN": "2F, No. 6, Longmen Road, Sanchong District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02 2971-5500",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4470423,25.0495865
+         ]
+       },
+       "properties": {
+         "store no": "3281",
+         "channel": "Fitness Factory (Xinzhuang Gym)",
+         "address_EN": "No. 157, Zhonghe Street, Xinzhuang District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 2990-8555",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5156042,24.992345
+         ]
+       },
+       "properties": {
+         "store no": "3283",
+         "channel": "Fitness Factory (Zhonghe Gym)",
+         "address_EN": "4th Floor, No. 188 Jingping Road, Zhonghe District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) (02)2940-6060",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4466874,25.1777266
+         ]
+       },
+       "properties": {
+         "store no": "3284",
+         "channel": "Fitness Factory (Danshui Gym)",
+         "address_EN": "B1, No. 16, Lane 182, Beixin Road, Danshui District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) (02) 2620-5000",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.476202,25.0127445
+         ]
+       },
+       "properties": {
+         "store no": "3285",
+         "channel": "Fitness Factory (Banqiao Gym)",
+         "address_EN": "No. 28, Section 1, Minsheng Road, Banqiao District, New Taipei City (Zhenglong Tiandi Building)",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) (02) 2963-8822",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5379695,24.9582736
+         ]
+       },
+       "properties": {
+         "store no": "3286",
+         "channel": "Fitness Factory (Xindian Gym)",
+         "address_EN": "2nd Floor, No. 2, Section 1, Beiyi Road, Xindian District, New Taipei City (MRT Xindian Station)",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 2913-5555",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.6634915,25.0730544
+         ]
+       },
+       "properties": {
+         "store no": "3287",
+         "channel": "Fitness Factory (Xindian Gym)",
+         "address_EN": "2B12:B65, B1, No. 58 Jiancheng Road, Yuzhi District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 2647-1888",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.455347,24.9875805
+         ]
+       },
+       "properties": {
+         "store no": "3288",
+         "channel": "Fitness Factory (Tucheng Gym)",
+         "address_EN": "B1, No. 113, Section 1, Xuefu Road, Tucheng District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 2263-5777",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4624254,25.0309726
+         ]
+       },
+       "properties": {
+         "store no": "3289",
+         "channel": "Fitness Factory (Minsheng Road Gym)",
+         "address_EN": "No. 323, Section 3, Minsheng Road, Banqiao District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 8252-7777",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.0329969,24.8118192
+         ]
+       },
+       "properties": {
+         "store no": "32892",
+         "channel": "Fitness Factory (Zhubei Gym)",
+         "address_EN": "4th Floor, No. 251, Fuxing 1st Street, Zhubei City",
+         "district": "Zhubei City",
+         "area": "Taiwan",
+         "phone": "(886) 03-667-0505",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.904756,
+             24.688453
+         ]
+       },
+       "properties": {
+         "store no": "3290",
+         "channel": "Fitness Factory (Miaoli Gym)",
+         "address_EN": "5F, No. 105, Central Road, Toufen Town, Miaoli County (Shang Shun Shopping Center)",
+         "district": "Toufen City",
+         "area": "Taiwan",
+         "phone": "(886) (037) 688-668",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.3064131,25.0057308
+         ]
+       },
+       "properties": {
+         "store no": "3291",
+         "channel": "Fitness Factory (Taoyuan Gym)",
+         "address_EN": "1-2F, No. 81, Gwangdong Road, Taoyuan City (Xinguang Sanyue 2 Hall)",
+         "district": "Taoyuan City",
+         "area": "Taiwan",
+         "phone": "(886) (03)3357575",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.2351359,24.9644894
+         ]
+       },
+       "properties": {
+         "store no": "32912",
+         "channel": "Fitness Factory (Zhongmu Gym)",
+         "address_EN": "No. 330, Section 2, Zhonghua Road, Zhongmu City, Taoyuan County",
+         "district": "Taoyuan City",
+         "area": "Taiwan",
+         "phone": "(886) (03)434-5588",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.0448513,24.7819694
+         ]
+       },
+       "properties": {
+         "store no": "3292",
+         "channel": "Fitness Factory (Gongdao 5th Road)",
+         "address_EN": "3rd Floor, No. 1, Section 3, Gongdao 5th Road, East District, Hsinchu City",
+         "district": "Hsinchu City",
+         "area": "Taiwan",
+         "phone": "(886) 03-571-5333",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.0104979,24.8860936
+         ]
+       },
+       "properties": {
+         "store no": "3293",
+         "channel": "Fitness Factory (Yuya Gym)",
+         "address_EN": "3rd Floor, 91-2 Yuya Street, North District, Hsinchu City",
+         "district": "Hsinchu City",
+         "area": "Taiwan",
+         "phone": "(886) 03-595-1333",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.3054339,24.9855521
+         ]
+       },
+       "properties": {
+         "store no": "3294",
+         "channel": "Fitness Factory (Taoyuan Fuxing)",
+         "address_EN": "B1, No. 207, Fuxing Road, Taoyuan, Taoyuan City",
+         "district": "Taoyuan City",
+         "area": "Taiwan",
+         "phone": "(886) 03-339-3399",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.6525942,24.1556363
+         ]
+       },
+       "properties": {
+         "store no": "3295",
+         "channel": "Fitness Factory (Jing Ming Gym)",
+         "address_EN": "B1, No. 20, Dalong Road, West District, Taichung City",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886) (04)2326-1155",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.7053897,24.251761
+         ]
+       },
+       "properties": {
+         "store no": "3296",
+         "channel": "Fitness Factory (Fengyuan  Gym)",
+         "address_EN": "4F (Carrefour), No. 500, Chenggong Road, Fengyuan District, Taichung City",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886)  (04)2529-5333",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.6099034,24.1886947
+         ]
+       },
+       "properties": {
+         "store no": "3297",
+         "channel": "Fitness Factory (Zhongke Gym)",
+         "address_EN": "No. 33, Lane 16, Lane 370, Yumen Road, Xitun District, Taichung City",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886) (04) 2462-8555",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.6852973,24.1360492
+         ]
+       },
+       "properties": {
+         "store no": "3298",
+         "channel": "Fitness Factory (New Times Shopping Center)",
+         "address_EN": "9F New Times Shopping Center, No. 186, Section 4, Fuxing Road, East District, Taichung City ",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886) (04) 2225-6555",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.6728423,24.1687822
+         ]
+       },
+       "properties": {
+         "store no": "32982",
+         "channel": "Fitness Factory (Zhongqing Gym)",
+         "address_EN": "B1, No. 652, Section 1, Zhongqing Road, North District, Taichung City",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886) (04)2298-8333",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.4439726,23.4801023
+         ]
+       },
+       "properties": {
+         "store no": "3299",
+         "channel": "Fitness Factory (Chiayi Gym)",
+         "address_EN": "No. 236, Xinrong Road, West District, Chiayi City",
+         "district": "Chiayi City",
+         "area": "Taiwan",
+         "phone": "(886) (05)2168686",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.1850299,22.9983983
+         ]
+       },
+       "properties": {
+         "store no": "3300",
+         "channel": "Fitness Factory (Anping Gym)",
+         "address_EN": "No. 52, Anping Road, Anping District, Tainan City",
+         "district": "Tainan City",
+         "area": "Taiwan",
+         "phone": "(886) (06)258-5500",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.2201367,22.9738283
+         ]
+       },
+       "properties": {
+         "store no": "3301",
+         "channel": "Fitness Factory (De an Gym)",
+         "address_EN": "7th Floor, No. 360, Section 3, Zhonghua East Street, East District, Tainan City",
+         "district": "Tainan City",
+         "area": "Taiwan",
+         "phone": "(886) 06-335-0909",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.233174,22.9845238
+         ]
+       },
+       "properties": {
+         "store no": "33012",
+         "channel": "Fitness Factory (Zhonghua Gym)",
+         "address_EN": "No. 16, Lane 185, Section 2, Zhonghua East Road, East District, Tainan City",
+         "district": "Tainan City",
+         "area": "Taiwan",
+         "phone": "(886) 06-290-6666",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.2236403,23.0094057
+         ]
+       },
+       "properties": {
+         "store no": "3302",
+         "channel": "Fitness Factory (Kaiyuan Gym)",
+         "address_EN": "No. 457, Kaiyuan Road, North District, Tainan City",
+         "district": "Tainan City",
+         "area": "Taiwan",
+         "phone": "(886) (06)235-6555",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3049798,22.6733909
+         ]
+       },
+       "properties": {
+         "store no": "3303",
+         "channel": "Fitness Factory (Boai Gym)",
+         "address_EN": "No. 102, Boai 3rd Road, Zuoying District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) (07)345-3838",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3145717,22.6404789
+         ]
+       },
+       "properties": {
+         "store no": "3304",
+         "channel": "Fitness Factory (Jiuru Gym)",
+         "address_EN": "No. 1, Qingyun Street, Sanmin District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) (07) 385-1818",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3068822,22.6134276
+         ]
+       },
+       "properties": {
+         "store no": "3305",
+         "channel": "Fitness Factory (Wenheng Third Road Gym)",
+         "address_EN": "No. 59, Wenheng Third Road, Qianzhen Town, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) (07) 338-8800",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3013127,22.6235562
+         ]
+       },
+       "properties": {
+         "store no": "3306",
+         "channel": "Fitness Factory (Wufu Gym)",
+         "address_EN": "3F, No. 262 Wufu 2nd Road, Xinxing District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) (07) 281-3838",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3459941,22.6415505
+         ]
+       },
+       "properties": {
+         "store no": "3307",
+         "channel": "Fitness Factory (Feng Shan Gym)",
+         "address_EN": "1 of No. 466, Clarification Road, Sanmin District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-785-1188",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3286639,22.5818506
+         ]
+       },
+       "properties": {
+         "store no": "3308",
+         "channel": "Fitness Factory (Taroko Park Gym)",
+         "address_EN": "2F Taroko Park, No. 1-1, Zhong'an Road, Qianzhen Town, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-791-8333",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.2960798,22.7960282
+         ]
+       },
+       "properties": {
+         "store no": "3309",
+         "channel": "Fitness Factory (Gangshan Gym)",
+         "address_EN": "3rd Floor, No. 434, Gangshan Road, Gangshan District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-622-9000",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.504465,22.6629295
+         ]
+       },
+       "properties": {
+         "store no": "3310",
+         "channel": "Fitness Factory (Pingtung Gym)",
+         "address_EN": "No. 2, Ruimin Road, Pingtung City (Ruimin Road and Minsheng Road)",
+         "district": "Pingtung City",
+         "area": "Taiwan",
+         "phone": "(886) (08)7237333",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.2938624,22.6279076
+         ]
+       },
+       "properties": {
+         "store no": "3311",
+         "channel": "Fitness Factory (Hai Pao Gym)",
+         "address_EN": "3F, No. 171, Ziqiang 2nd Road, Qianjin District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-216-2666",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.2874025,22.6490192
+         ]
+       },
+       "properties": {
+         "store no": "3312",
+         "channel": "Fitness Factory (Tongmeng Gym)",
+         "address_EN": "No. 642, Tongmeng 3rd Road, Sanmin District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-313-3888",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3242415,22.6319131
+         ]
+       },
+       "properties": {
+         "store no": "3313",
+         "channel": "Fitness Factory (Universal Gym)",
+         "address_EN": "No. 106, Dashun 3rd Road, Yuya District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-313-3888",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.2804992,22.7301142
+         ]
+       },
+       "properties": {
+         "store no": "3314",
+         "channel": "Fitness Factory (Nanxun Gym)",
+         "address_EN": "No. 290, East University Road, Nanxun District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 0966-424-580",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "f"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5505811,25.0482199
+         ]
+       },
+       "properties": {
+         "store no": "3315",
+         "channel": "ISPO (Bademen City)",
+         "address_EN": "20-1, Section 3, Bade Road, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6617-6601",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.566738,25.0318385
+         ]
+       },
+       "properties": {
+         "store no": "3316",
+         "channel": "ISPO (Xinyi Sports Center)",
+         "address_EN": "1/F, 100 Song Qin Street, Xinyi District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-5722",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5686674,25.0358435
+         ]
+       },
+       "properties": {
+         "store no": "3317",
+         "channel": "ISPO (Shin Kong A11)",
+         "address_EN": "5th Floor, 11 Songshou Road, Xinyi District, Taipei City (A11 Hall)",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6613-0517",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5386834,25.0333706
+         ]
+       },
+       "properties": {
+         "store no": "3318",
+         "channel": "ISPO (Daan Xinyi Store)",
+         "address_EN": "1F, No. 122, Section 3, Xinyi Road, Daan District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-0692",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5666214,25.0807317
+         ]
+       },
+       "properties": {
+         "store no": "3319",
+         "channel": "ISPO (Momentum Shihlin)",
+         "address_EN": "2/F, 130 Kihe Road, Shilin District, Taipei",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-8162",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.46479,25.0117463
+         ]
+       },
+       "properties": {
+         "store no": "3320",
+         "channel": "ISPO (Momentum Banqiao Fuzhong)",
+         "address_EN": "3rd Floor, No. 3-5, Section 1, Zhongshan Road, Banqiao District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6637-0136",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5744852,25.0778785
+         ]
+       },
+       "properties": {
+         "store no": "3321",
+         "channel": "ISPO (Neihu Sports Center)",
+         "address_EN": "1/F, 12 Chauzi Street, Neihu District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-6173",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5129846,25.0461236
+         ]
+       },
+       "properties": {
+         "store no": "3322",
+         "channel": "ISPO (Shin Kong Mitsukoshi Taipei Station)",
+         "address_EN": "11th Floor, No. 66, Section 1, Zhongxiao West Road, Zhongzheng District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-6257",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5652204,25.0806908
+         ]
+       },
+       "properties": {
+         "store no": "3323",
+         "channel": "ISPO (Jhong Jheng Sports Center)",
+         "address_EN": "No.1, Section 1, Xinyi Road, Zhongzheng District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-1665",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5192045,25.0548943
+         ]
+       },
+       "properties": {
+         "store no": "3324",
+         "channel": "ISPO (Zhong Shan Sports Center)",
+         "address_EN": "1st Floor, No. 2, Lane 44, Section 2, Zhongshan North Road, Zhongshan District, Taipei",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-5173",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.533427,25.0132202
+         ]
+       },
+       "properties": {
+         "store no": "3325",
+         "channel": "ISPO (Gong Guan Store)",
+         "address_EN": "1st Floor, No. 1, Lane 160, Section 3, Tingzhou Road, Zhongzheng District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6617-6783",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5150684,25.0648534
+         ]
+       },
+       "properties": {
+         "store no": "3326",
+         "channel": "ISPO (Datong Sports Center)",
+         "address_EN": "1st Floor, 51 Dalong Street, Datong District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-66171592",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5163189,25.0491984
+         ]
+       },
+       "properties": {
+         "store no": "3327",
+         "channel": "ISPO (Qsquare Station)",
+         "address_EN": "3rd Floor, No. 1, Section 1, Chengde Road, Datong District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6617-1547",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5810257,25.0487774
+         ]
+       },
+       "properties": {
+         "store no": "3328",
+         "channel": "ISPO (Nan Gang Sports Center)",
+         "address_EN": "69 Yucheng Street, Nangang District, Taipei City",
+         "district": "Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6617-7972",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4548716,25.0225256
+         ]
+       },
+       "properties": {
+         "store no": "3329",
+         "channel": "ISPO (Banqiao Store)",
+         "address_EN": "1st Floor, No. 26, Lane 89, Xinsheng Street, Banqiao District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6637-5518",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4645763,25.0136558
+         ]
+       },
+       "properties": {
+         "store no": "3330",
+         "channel": "ISPO (Mega City Banqiao)",
+         "address_EN": "6th Floor, No. 28 Xinzhan Road, Banqiao District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) ",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5219363,25.0031328
+         ]
+       },
+       "properties": {
+         "store no": "33302",
+         "channel": "ISPO (Yong (He Sports Center)",
+         "address_EN": "No. 250, Yongli Road, Yonghe District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6637-2235",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4568178,25.0616451
+         ]
+       },
+       "properties": {
+         "store no": "3331",
+         "channel": "ISPO (XinZhuang Sports Center)",
+         "address_EN": "No. 11 Park Road, Xinzhuang District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6637-2132",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4860543,25.0546167
+         ]
+       },
+       "properties": {
+         "store no": "3332",
+         "channel": "ISPO (San Chong Sports Center)",
+         "address_EN": "1st Floor, 55 Jimei Street, Sanchong District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-66372365",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4725898,25.006678
+         ]
+       },
+       "properties": {
+         "store no": "3333",
+         "channel": "ISPO (Global Mall)",
+         "address_EN": "3rd Floor, No. 122, Section 3, Zhongshan Road, Zhonghe District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6637-5319",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4881923,24.9926397
+         ]
+       },
+       "properties": {
+         "store no": "3334",
+         "channel": "ISPO (Zhonghe Sports Center)",
+         "address_EN": "No. 350-1, Jinhe Road, Zhonghe District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6637-3109",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4323114,25.0559067
+         ]
+       },
+       "properties": {
+         "store no": "3335",
+         "channel": "ISPO (Xin Wu TaiSports Center)",
+         "address_EN": "1st Floor, No. 167, Quanxing Road, Taishan District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 6637-8103",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.4545691,24.9835246
+         ]
+       },
+       "properties": {
+         "store no": "3336",
+         "channel": "ISPO (Tucheng Sports Center)",
+         "address_EN": "No. 247, Section 2, Jincheng Road, Tucheng District, New Taipei City",
+         "district": "New Taipei City",
+         "area": "Taiwan",
+         "phone": "(886) 02-6637-4231",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.3131983,24.9814077
+         ]
+       },
+       "properties": {
+         "store no": "3337",
+         "channel": "ISPO (Women Center)",
+         "address_EN": "1st Floor, No. 147, Yanping Road, Taoyuan Park, Taoyuan City",
+         "district": "Taoyuan City",
+         "area": "Taiwan",
+         "phone": "(886) 03-263-0645",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.0219776,24.7797201
+         ]
+       },
+       "properties": {
+         "store no": "3338",
+         "channel": "ISPO (Hsinchu Ksinke Sports Center)",
+         "address_EN": "1st Floor, No. 90, Lane 89, Section 1, Guangfu Road, East District, Hsinchu City",
+         "district": "Taoyuan City",
+         "area": "Taiwan",
+         "phone": "(886) 03-610-6736",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.6979017,24.3246573
+         ]
+       },
+       "properties": {
+         "store no": "3339",
+         "channel": "ISPO (Lihpao Outlet)",
+         "address_EN": "2nd Floor, No. 8, Furong Road, Houli District, Taichung City",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886) 04-3609-5891",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.6415193,24.1652619
+         ]
+       },
+       "properties": {
+         "store no": "3340",
+         "channel": "ISPO (Shin Kong Mitsukoshi Taichung)",
+         "address_EN": "12th Floor, No. 301, Section 3, Taiwan Avenue, Xitun District, Taichung City",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886) 04-3609-9482",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.6428075,24.165198
+         ]
+       },
+       "properties": {
+         "store no": "3341",
+         "channel": "ISPO (Top City Taichung)",
+         "address_EN": "7th Floor, South Building, No. 251, Section 3, Taiwan Avenue, Xitun District, Taichung City",
+         "district": "Taichung City",
+         "area": "Taiwan",
+         "phone": "(886) 04-3609-5492",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3021785,22.6130186
+         ]
+       },
+       "properties": {
+         "store no": "3342",
+         "channel": "ISPO (Top City Kaohsiung)",
+         "address_EN": "7th Floor, No. 21, Sanduo 4th Road, Yuya District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-963-0705",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3267024,22.5824924
+         ]
+       },
+       "properties": {
+         "store no": "3343",
+         "channel": "ISPO (Taroko Park)",
+         "address_EN": "1st Floor, No. 100, Zhongshan 4th Road, Qianzhen Town, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-791-5170",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3267024,22.5824924
+         ]
+       },
+       "properties": {
+         "store no": "3344",
+         "channel": "ISPO (Dream Mall)",
+         "address_EN": "6th Floor, No. 789, Zhonghua 5th Road, Qianzhen Town, Kaohsiung City (F6C26+C27)",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) 07-963-5263(黃晶慧0988-735-603)",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.1312983,23.1229948
+         ]
+       },
+       "properties": {
+         "store no": "3345",
+         "channel": "ISPO (Shin Kong Mitsukoshi Tainan Xiaoximen)",
+         "address_EN": "5th Floor, No.658, Section 1, Ximen Road, Central and Western District, Tainan City",
+         "district": "Taoyuan City",
+         "area": "Taiwan",
+         "phone": "(886) 06-602-6159",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.5030736,25.0293387
+         ]
+       },
+       "properties": {
+         "store no": "3346",
+         "channel": "Marathon's World",
+         "address_EN": "No. 70, Patriotic East Road, Zhongzheng District, Taipei City",
+         "district": "Tainan City",
+         "area": "Taiwan",
+         "phone": "(886) 2358-3797",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             121.0257663,24.8203059
+         ]
+       },
+       "properties": {
+         "store no": "3347",
+         "channel": "Marathon's World",
+         "address_EN": "No. 129, Guangmingjiu Road, Zhubei City, Hsinchu County",
+         "district": "Hsinchu County",
+         "area": "Taiwan",
+         "phone": "(886) (03)657-1986",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+             120.3040843,22.6612798
+         ]
+       },
+       "properties": {
+         "store no": "3348",
+         "channel": "Marathon's World",
+         "address_EN": "No.412, Mingcheng Second Road, Zuoying District, Kaohsiung City",
+         "district": "Kaohsiung City",
+         "area": "Taiwan",
+         "phone": "(886) (07)556-6290",
+         "hours": "6:00am-12:00pm Daily",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.225526, 22.308510
+        ]
+      },
+      "properties": {
+        "store no": "3350",
+        "channel": "TriggerPoint",
+        "address_EN": "Unit B, 20/F, EGL Tower, 83 Hung To Road, Kwun Tong, Kowloon",
+        "district": "Kwun Tong",
+        "area": "Hong Kong",
+        "phone": "+852 3615 8480",
+        "hours": "Mon - Fri: 9:00am - 6:00pm<br/>Sat & Sun: Close",
+		"website": "https://www.tptherapy.com.hk/",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "e"
+      }
+    },
+	
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.698022, 10.805728
+        ]
+      },
+      "properties": {
+        "store no": "3351",
+        "channel": "Vua Cơ Bắp",
+        "address_EN": "98B Le Quang Dinh St., Dist. Binh Thanh",
+        "district": "Ho Chi Minh",
+        "area": "Vietnam",
+        "phone": "+84 917161077",
+        "hours": "Mon - Fri: 9:00am - 7:00pm<br/>Sat & Sun: 9:00am -5:00pm",
+		"website": "https://www.vuacobap.com",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "e"
+      }
+    },
+	
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         106.691663, 10.787156
+        ]
+      },
+      "properties": {
+        "store no": "3352",
+        "channel": "thucphambosung.net",
+        "address_EN": "84 Pham Ngoc Thach St., Dist. 3",
+        "district": "Ho Chi Minh",
+        "area": "Vietnam",
+        "phone": "+84 917161077",
+        "hours": "Mon - Fri: 9:00am - 7:00pm<br/>Sat: 9:00am -5:00pm & Sun: Close",
+		"website": "https://thucphambosung.net",
+        "marker-size": "medium",
+        "marker-color": "#0044FF",
+        "marker-symbol": "e"
+      }
+    },
+	
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            103.833183, 1.358366
+         ]
+       },
+       "properties": {
+         "store no": "3354",
+         "channel": "F1-RECREATION",
+         "address_EN": "20 Sin Ming Lane #01-57, Mid View City, Singapore 573968",
+         "district": "Singapore",
+         "area": "Singapore",
+         "phone": "+65 6846 7666",
+         "hours": "10:00am-18pm Daily",
+		 "website": "http://www.f1-recreation.com.sg",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            121.0752765, 14.5291078
+         ]
+       },
+       "properties": {
+         "store no": "3355",
+         "channel": "All Sports",
+         "address_EN": "2nd Floor, Vista Mall, AllShoppe Department Store, Levi Mariano Ave., Brgy. Tuktukan, Taguig City",
+         "district": "Taguig",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            121.0111927, 14.3759941
+         ]
+       },
+       "properties": {
+         "store no": "3356",
+         "channel": "All Sports",
+         "address_EN": "2nd Flr, Evia Lifestyle Center, Daang Hari Road, Brgy. Almanza, Las Pinas City",
+         "district": "Las Pinas",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            121.0409783, 14.4173228
+         ]
+       },
+       "properties": {
+         "store no": "3357",
+         "channel": "All Sports",
+         "address_EN": "3rd floor beside Robinson`s Dept Store and near escalator, StarMall Alabang, Muntinlupa",
+         "district": "Muntinlupa",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     }, 
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            123.823191, 10.2593769
+         ]
+       },
+       "properties": {
+         "store no": "3358",
+         "channel": "All Sports",
+         "address_EN": "All Home, Starmall, Lawaan I, 6045, Talisay, Cebu",
+         "district": "Cebu",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     }, 
+	 
+	  {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            120.9173087, 14.3093011
+         ]
+       },
+       "properties": {
+         "store no": "3359",
+         "channel": "All Sports",
+         "address_EN": "Arnaldo Highway, General Trias Brgy. San Francisco, Cavite City",
+         "district": "Cavite",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            121.0749167, 14.6150956
+         ]
+       },
+       "properties": {
+         "store no": "3360",
+         "channel": "All Sports",
+         "address_EN": "E Rodriquez Jr. Avenue, Libis, Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	
+   {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            124.65634, 8.4799632
+         ]
+       },
+       "properties": {
+         "store no": "3361",
+         "channel": "All Sports",
+         "address_EN": "Limketkai, Cagayan De Oro City, Misamis Oriental",
+         "district": "CDO",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },	
+	 
+	  {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            122.5167796, 10.740291
+         ]
+       },
+       "properties": {
+         "store no": "3362",
+         "channel": "All Sports",
+         "address_EN": "Oton Brgy. Pulo Maestra Vita, Iloilo City, Iloilo",
+         "district": "Iloilo",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },	
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            123.2347195, 13.6184851
+         ]
+       },
+       "properties": {
+         "store no": "3363",
+         "channel": "All Sports",
+         "address_EN": "Vista Mall Naga, Maharlika Highway, Brgy. Del Rosario, Naga, Camarines Sur",
+         "district": "Naga",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },	
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            120.8531292, 14.3351206
+         ]
+       },
+       "properties": {
+         "store no": "3364",
+         "channel": "All Sports",
+         "address_EN": "Vista Mall, Brgy Bagtas, Trese Martires Road, Punta 2, Tanza, Cavite",
+         "district": "Cavite",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+    {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            120.5334725, 14.6545322
+         ]
+       },
+       "properties": {
+         "store no": "3364",
+         "channel": "All Sports",
+         "address_EN": "Vista Mall, Roman Super Highway, Cupang Proper, Balanga City, Bataan",
+         "district": "Bataan",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },	
+
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            121.0580063, 14.2432948
+         ]
+       },
+       "properties": {
+         "store no": "3365",
+         "channel": "All Sports",
+         "address_EN": "Vista Mall, Sta.Rosa-Tagaytay Road Sto. Domingo, Sta.Rosa City",
+         "district": "Laguna",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },	
+
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            121.0193792, 14.6336204
+         ]
+       },
+       "properties": {
+         "store no": "3366",
+         "channel": "Chris Sports",
+         "address_EN": "2/F Fisher Mall, Quezon Ave. Cor. Roosevelt, Brgy. Sta. Cruz, Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },	 
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+            121.0253682, 14.5512398
+         ]
+       },
+       "properties": {
+         "store no": "3366",
+         "channel": "Chris Sports",
+         "address_EN": "2/F Glorietta 3, Ayala Mall, Brgy. San Lorenzo, Makati City",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           120.9826396, 14.5346515
+         ]
+       },
+       "properties": {
+         "store no": "3367",
+         "channel": "Chris Sports",
+         "address_EN": "242 Entertainment Mall, SM Mall Of Asia, Bay Blvd., Pasay City",
+         "district": "Pasay",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+    {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.0281158, 14.6567259
+         ]
+       },
+       "properties": {
+         "store no": "3368",
+         "channel": "Chris Sports",
+         "address_EN": "3/F U329 SM City New Annex, North Edsa, Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           123.9051269, 10.3181413
+         ]
+       },
+       "properties": {
+         "store no": "3369",
+         "channel": "Chris Sports",
+         "address_EN": "Ayala Center, Cebu Business Park, Cebu City",
+         "district": "Cebu City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           122.9442929, 10.6710529
+         ]
+       },
+       "properties": {
+         "store no": "3370",
+         "channel": "Chris Sports",
+         "address_EN": "EX 241 SM City Bacolod, Reclamation Area, Bacolod City",
+         "district": "Bacolod",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+    {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.0849784, 14.678368
+         ]
+       },
+       "properties": {
+         "store no": "3371",
+         "channel": "Chris Sports",
+         "address_EN": "G/F C-16 Ever Gotesco Comm/ Ctr., Don Mariano Marcos Ave., Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           120.9831284, 14.5896685
+         ]
+       },
+       "properties": {
+         "store no": "3372",
+         "channel": "Chris Sports",
+         "address_EN": "G/F SM City Manila, Concepcion St., cor., Arrocerros & San Marcelino Sts., Manila",
+         "district": "Manila",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           120.95579, 14.754375
+         ]
+       },
+       "properties": {
+         "store no": "3373",
+         "channel": "Chris Sports",
+         "address_EN": "G/F SM City Marilao, Km. 21 Mc Arthur Hi-Way, Brgy. Ibayo, Marilao, Bulacan",
+         "district": "Bulacan",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.0347183, 14.6274147
+         ]
+       },
+       "properties": {
+         "store no": "3373",
+         "channel": "Chris Sports",
+         "address_EN": "K-Plaza Bldg., 18 Kamuning Rd., Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.056533, 14.734077
+         ]
+       },
+       "properties": {
+         "store no": "3374",
+         "channel": "Chris Sports",
+         "address_EN": "L G/F SM City Fairview, Quirino Hi-Way cor. Regalado Ave., Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           120.2802032, 14.8248073
+         ]
+       },
+       "properties": {
+         "store no": "3375",
+         "channel": "Chris Sports",
+         "address_EN": "Level 2, Space No. 2012, Harbor Point, Subic Bay, Freeport Zone, Subic, Zambales",
+         "district": "Zambales",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           120.9828028, 14.576449
+         ]
+       },
+       "properties": {
+         "store no": "3376",
+         "channel": "Chris Sports",
+         "address_EN": "Level 2, Space Nos. 322-323, Robinson`s Place Manila, Padre Faura St. Brgy. 669 Zone 072, Ermita, Manila",
+         "district": "Manila",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	  {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           125.6112563, 7.091088500000001
+         ]
+       },
+       "properties": {
+         "store no": "3377",
+         "channel": "Chris Sports",
+         "address_EN": "Level 2, Unit 2101 Abreeza Mall, J.P. Laurel Ave., Bajada, Davao City",
+         "district": "Davao City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           123.917627, 10.3111984
+         ]
+       },
+       "properties": {
+         "store no": "3378",
+         "channel": "Chris Sports",
+         "address_EN": "SM City Cebu, UGF, Juan Luna Ave., A. Soriano Jr. Ave., North Reclamation Area, Brgy. Mabolo, Cebu City",
+         "district": "Cebu City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.0558947, 14.5491314
+         ]
+       },
+       "properties": {
+         "store no": "3379",
+         "channel": "Chris Sports",
+         "address_EN": "Space 439-440, 4/F Market!Market! Bonifacio Global City, Taguig City",
+         "district": "Taguig",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.0752145, 14.6507422
+         ]
+       },
+       "properties": {
+         "store no": "3380",
+         "channel": "Chris Sports",
+         "address_EN": "SU 207 2/F U.P. Town Center, Katipunan Ave., Brgy. U.P. Campus, Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           120.5800953, 15.1688209
+         ]
+       },
+       "properties": {
+         "store no": "3381",
+         "channel": "Chris Sports",
+         "address_EN": "U 1149 G/F SM City Clark, M. Roxas St. Brgy. Malabanias, Angeles City, Pampanga",
+         "district": "Pampanga",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.6245004, 13.940265
+         ]
+       },
+       "properties": {
+         "store no": "3382",
+         "channel": "Chris Sports",
+         "address_EN": "U 154-55 SM City Lucena, Dalahican Rd. cor. Pagbilao Nat`l. Rd., Lucena, Quezon",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           121.0445111, 14.4866554
+         ]
+       },
+       "properties": {
+         "store no": "3383",
+         "channel": "Chris Sports",
+         "address_EN": "U G/F SM City Bicutan, Doña Soledad Ave. cor. West Service Rd., Parañaque City",
+         "district": "Parañaque City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           120.9564343, 14.3009712
+         ]
+       },
+       "properties": {
+         "store no": "3384",
+         "channel": "Chris Sports",
+         "address_EN": "U G/F SM City Dasmariñas, Governors Drive Brgy. Pala-Pala, Dasmariñas, Cavite",
+         "district": "Cavite",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.1139149, 14.6801403
+         ]
+       },
+       "properties": {
+         "store no": "3385",
+         "channel": "Chris Sports",
+         "address_EN": "U-124 G/F SM City San Mateo, Gen. Luna Ave., Brgy. Ampid 1, San Mateo, Rizal",
+         "district": "Rizal",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+    {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+		  120.599211, 16.409052
+         ]
+       },
+       "properties": {
+         "store no": "3386",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 029 LGF SM City Baguio, Luneta Hill, Brgy. Session Rd. Governor Pack Rd., Baguio City",
+         "district": "Baguio",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0690074, 13.7556898
+         ]
+       },
+       "properties": {
+         "store no": "3387",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 125-126 G/F SM City Batangas, Brgy. Pallocan West, Batangas City",
+         "district": "Batangas City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.6024515, 15.8793506
+         ]
+       },
+       "properties": {
+         "store no": "3388",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 144-145 G/F SM City Rosales, Brgy. Carmen East, Rosales, Pangasinan",
+         "district": "Pangasinan",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0327342, 14.4576958
+         ]
+       },
+       "properties": {
+         "store no": "3389",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 201B-202 2/F SM City BF Parañaque, Dr. A. Santos Ave. cor. Presidents Ave., Sucat, Parañaque",
+         "district": "Parañaque City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.5944589, 15.4770107
+         ]
+       },
+       "properties": {
+         "store no": "3390",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 208 2/F SM City Tarlac, Mc Arthur Hi-Way, San Roque, Tarlac City",
+         "district": "Tarlac City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.5721154, 15.9720943
+         ]
+       },
+       "properties": {
+         "store no": "3391",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 208-209B, 2Flr SM City Urdaneta, Brgy. Nancayasan & Poblacion, Urdaneta City, Pangasinan",
+         "district": "Pangasinan",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	
+	
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          124.6510351, 8.4848658
+         ]
+       },
+       "properties": {
+         "store no": "3392",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 2084 2/F Centrio Mall, CM Recto Ave., cor. Coralles St., Cagayan De Oro City",
+         "district": "Cagayan De Oro City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          123.881565, 10.2815903
+         ]
+       },
+       "properties": {
+         "store no": "3393",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 2201 SM Seaside City Cebu, SM Seaside Complex, South Road Properties, Brgy Mambaling, Cebu City",
+         "district": "Cebu City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0986262, 14.3128542
+         ]
+       },
+       "properties": {
+         "store no": "3394",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 2217b-2218 2/F SM City Sta. Rosa, Brgy. Tagapo, Sta Rosa City, Laguna",
+         "district": "Laguna",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          125.6310439, 7.098942
+         ]
+       },
+       "properties": {
+         "store no": "3395",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 260B-261, 2/F SM Lanang Premiere JP Laurel Ave., Brgy. San Antonio, Agdao District, Davao City",
+         "district": "Davao City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0568317, 14.584845
+         ]
+       },
+       "properties": {
+         "store no": "3396",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 315 A-B, 3/F SM Megamall, Edsa cor. Julia Vargas Ave., Mandaluyong City",
+         "district": "Mandaluyong",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.9545816, 15.4659207
+         ]
+       },
+       "properties": {
+         "store no": "3397",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 341-342 3/F SM City Cabanatuan, Brgy. H. Concepcion, Cabanatuan City",
+         "district": "Cabanatuan City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	  {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          124.6540313, 8.484503799999999
+         ]
+       },
+       "properties": {
+         "store no": "3398",
+         "channel": "Chris Sports",
+         "address_EN": "Unit 345B-346, SM CDO Premier, Brgy. 24 Cm Recto-Osmeña St. Cagayan De Oro City",
+         "district": "Cagayan De Oro City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.6988153, 15.0527583
+         ]
+       },
+       "properties": {
+         "store no": "3399",
+         "channel": "Chris Sports",
+         "address_EN": "Unit AX-2 143 G/F SM City Pampanga, Olo-Gapan Rd., Brgy. Lagundi, Mexico, Pampanga",
+         "district": "Pampanga",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          114.154251, 22.28274
+         ]
+       },
+       "properties": {
+         "store no": "3400",
+         "channel": "Chris Sports",
+         "address_EN": "Unit CCB 09-10 LGF Main Bldg., SM City North Edsa, Brgy. Bagong Pag-Asa, Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.9932276, 14.4830077
+         ]
+       },
+       "properties": {
+         "store no": "3401",
+         "channel": "Chris Sports",
+         "address_EN": "Unit R225 2/F SM City Sucat, Dr. A.Santos Ave. Brgy. San Dionisio, Sucat, Parañaque City",
+         "district": "Parañaque City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0396413, 14.5441682
+         ]
+       },
+       "properties": {
+         "store no": "3402",
+         "channel": "Chris Sports",
+         "address_EN": "Upper Tennis Court Area, Manila Polo Club, Mckinley Rd., Forbes Park, Makati City",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.036038, 14.6516619
+         ]
+       },
+       "properties": {
+         "store no": "3403",
+         "channel": "Chris Sports",
+         "address_EN": "Level 1 R4-L1-044, Ayal Vertis North, Phase 1&2, Lot 1&2 Corner North Avenue, Brgy. Pag-asa Q.c.",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.950793, 14.445048
+         ]
+       },
+       "properties": {
+         "store no": "3404",
+         "channel": "JB Music & Sports",
+         "address_EN": "0051-0052 LG/F, Sm City Bacoor, Habay II, Bacoor, Cavite",
+         "district": "Cavite",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          122.5516094, 10.714641
+         ]
+       },
+       "properties": {
+         "store no": "3405",
+         "channel": "JB Music & Sports",
+         "address_EN": "0076-0078 SM City Ilo-Ilo, Barangay Bolilao, Mandurrio, Ilo-Ilo City",
+         "district": "Iloilo",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.6988153, 15.0527583
+         ]
+       },
+       "properties": {
+         "store no": "3406",
+         "channel": "JB Music & Sports",
+         "address_EN": "148-149, Main Bldg., SM City Pampanga, Lagundi Mexico, Pampanga",
+         "district": "Pampanga",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.9564343, 14.3009712
+         ]
+       },
+       "properties": {
+         "store no": "3407",
+         "channel": "JB Music & Sports",
+         "address_EN": "2F, 237-240, SM City Dasmariñas, Sampaloc 1, Dasmarinas, Cavite",
+         "district": "Dasmariñas",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.9826396, 14.5346515
+         ]
+       },
+       "properties": {
+         "store no": "3408",
+         "channel": "JB Music & Sports",
+         "address_EN": "Entertainment Mall, SM MAll of Asia 240-241, SM Central Business Park Bay City, Pasay City",
+         "district": "Pasig",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0568317, 14.584845
+         ]
+       },
+       "properties": {
+         "store no": "3409",
+         "channel": "JB Music & Sports",
+         "address_EN": "Lower Ground Floor, Mega Bldg. B, SM Megamall, Mandaluyong, Pasig City",
+         "district": "Pasig",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.058974, 14.7339255
+         ]
+       },
+       "properties": {
+         "store no": "3410",
+         "channel": "JB Music & Sports",
+         "address_EN": "Lower Ground Floor, Quirino Hi-Way Cor. Regalado Ave. Greater Lagro Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0303608, 14.6567755
+         ]
+       },
+       "properties": {
+         "store no": "3411",
+         "channel": "JB Music & Sports",
+         "address_EN": "Unit CCB 36, Lower Ground Floor, SM City North EDSA, Bagong Pag-asa, Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          123.9051269, 10.3181413
+         ]
+       },
+       "properties": {
+         "store no": "3412",
+         "channel": "Planet Sports",
+         "address_EN": "1st Level Active Zone Ayala Center, Cebu",
+         "district": "Cebu",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.049226, 14.6020357
+         ]
+       },
+       "properties": {
+         "store no": "3413",
+         "channel": "Planet Sports",
+         "address_EN": "2ND FLR. B 204/206 VMall, Greenhills Shopping Center",
+         "district": "Cebu",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.049226, 14.6020357
+         ]
+       },
+       "properties": {
+         "store no": "3414",
+         "channel": "Planet Sports",
+         "address_EN": "2ND FLR. B 204/206 VMall, Greenhills Shopping Center",
+         "district": "San Juan",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	
+	
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0163637, 14.521625
+         ]
+       },
+       "properties": {
+         "store no": "3415",
+         "channel": "Planet Sports",
+         "address_EN": "3rd Floor Shop 9 Newport Pasay City",
+         "district": "Pasay",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.062736, 14.575871
+         ]
+       },
+       "properties": {
+         "store no": "3415",
+         "channel": "Planet Sports",
+         "address_EN": "Basement 1, Estancia Mall, Capitol Commons, Oranbo, Pasig City",
+         "district": "Pasig",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.2424182, 14.1773359
+         ]
+       },
+       "properties": {
+         "store no": "3416",
+         "channel": "Planet Sports",
+         "address_EN": "Basement Robinsons Town Mall, Los BaÑos, Laguna",
+         "district": "Laguna",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.027665, 14.565466
+         ]
+       },
+       "properties": {
+         "store no": "3417",
+         "channel": "Planet Sports",
+         "address_EN": "Century City Mall Kalayaan Ave. Brgy. Poblacion Makati City",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.029441, 14.423495
+         ]
+       },
+       "properties": {
+         "store no": "3418",
+         "channel": "Planet Sports",
+         "address_EN": "GRND. FLR. Alabang Town Center, Zapote",
+         "district": "Muntinlupa",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          124.6561297, 8.481517799999999
+         ]
+       },
+       "properties": {
+         "store no": "3419",
+         "channel": "Planet Sports",
+         "address_EN": "Ist Level North Concourse Limketkei Mall, Limketkai Center, Cagayan De Oro City",
+         "district": "CDO",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0253682, 14.5512398
+         ]
+       },
+       "properties": {
+         "store no": "3420",
+         "channel": "Planet Sports",
+         "address_EN": "Level 2 Glorietta 3, Ayala Center, Makati City",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0361007, 14.5652873
+         ]
+       },
+       "properties": {
+         "store no": "3421",
+         "channel": "Planet Sports",
+         "address_EN": "Level 2 Power Plant Mall, Rockwell, Makati City",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0361007, 14.5652873
+         ]
+       },
+       "properties": {
+         "store no": "3422",
+         "channel": "Planet Sports",
+         "address_EN": "Level 2 Space 2097 Abreeza Mall, JP Laurel Bajada Davao City",
+         "district": "Davao City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.060168, 14.735839
+         ]
+       },
+       "properties": {
+         "store no": "3424",
+         "channel": "Planet Sports",
+         "address_EN": "Space 2103/2104/2104S Level 2 Fairview Terraces Quirino Highway Brgy.Pasong Putik Novaliches Q.C.",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          125.1860815, 6.1175316
+         ]
+       },
+       "properties": {
+         "store no": "3425",
+         "channel": "Planet Sports",
+         "address_EN": "Space 235-236 2nd Flr. Veranza Mall General Santos City",
+         "district": "General Santos",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          122.9587124, 10.6911151
+         ]
+       },
+       "properties": {
+         "store no": "3426",
+         "channel": "Planet Sports",
+         "address_EN": "The Central - c5001, Ground Floor, Robinson Place Bacolod - Lacson Street, Mandalagan Bacolod City, Negros Occidental",
+         "district": "Bacolod",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0752145, 14.6507422
+         ]
+       },
+       "properties": {
+         "store no": "3427",
+         "channel": "Planet Sports",
+         "address_EN": "Unit  B342-346 Ground Floor, Up town Center, Katipunan, Brgy. Up Campus Q.C.",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0326779, 14.6540174
+         ]
+       },
+       "properties": {
+         "store no": "3428",
+         "channel": "Planet Sports",
+         "address_EN": "Unit 2084, 2085 Level M 2 Trinoma North Ave, Corner Edsa Pag Asa Q.C",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0506014, 14.5509299
+         ]
+       },
+       "properties": {
+         "store no": "3429",
+         "channel": "Runnr",
+         "address_EN": "L1 - B3 Bonifacio High Street, Fort Bonifacio, Taguig City, 1634",
+         "district": "Taguig",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0405586, 14.4171592
+         ]
+       },
+       "properties": {
+         "store no": "3429",
+         "channel": "Runnr",
+         "address_EN": "L2 - Alabang Town Center The Garden, Muntinlupa City, 1799",
+         "district": "Muntinlupa",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0304, 14.656
+         ]
+       },
+       "properties": {
+         "store no": "3430",
+         "channel": "Runnr",
+         "address_EN": "L2- EDSA cor. North Ave., Brgy. Bagong Pag-asa, Quezon City, 1105",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0304, 14.656
+         ]
+       },
+       "properties": {
+         "store no": "3431",
+         "channel": "Runnr",
+         "address_EN": "L2- EDSA cor. North Ave., Brgy. Bagong Pag-asa, Quezon City, 1105",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.8236318, 14.8499225
+         ]
+       },
+       "properties": {
+         "store no": "3432",
+         "channel": "Sports Warehouse",
+         "address_EN": "2flr. Space 224 Robinson Place Malolos McArthur Highway Brgy. Mabolo Malolos Bulacan.",
+         "district": "Makati",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.020967, 14.6568911
+         ]
+       },
+       "properties": {
+         "store no": "3433",
+         "channel": "Sports Warehouse",
+         "address_EN": "2nd Flr. Waltermart EDSA Veterans Villages Quezon",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0846166, 14.2916975
+         ]
+       },
+       "properties": {
+         "store no": "3434",
+         "channel": "Sports Warehouse",
+         "address_EN": "Brgy. Mamplasan Liip Biñan, Laguna",
+         "district": "Laguna",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0558947, 14.5491314
+         ]
+       },
+       "properties": {
+         "store no": "3434",
+         "channel": "Sports Warehouse",
+         "address_EN": "Unit 450 4 LEVEL Market2x Mall, Global, City Taguig, MM",
+         "district": "Taguig",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          125.0078532, 11.2079615
+         ]
+       },
+       "properties": {
+         "store no": "3434",
+         "channel": "The Athlete's Foot",
+         "address_EN": "level 1 Robinsons Rlace Tacloban National Hway Tubuan Marasbaras Tacloban",
+         "district": "Tacloban",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          120.9834166, 14.5783056
+         ]
+       },
+       "properties": {
+         "store no": "3435",
+         "channel": "The Athlete's Foot",
+         "address_EN": "Space 118 Level 2 Padre Faura Wing Robinsons Place Manila",
+         "district": "Manila",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0296243, 14.4235531
+         ]
+       },
+       "properties": {
+         "store no": "3436",
+         "channel": "The Athlete's Foot",
+         "address_EN": "Unit 220 Twin Arcade, Alabang Town Center, Muntinlupa",
+         "district": "Muntinlupa",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 {
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0507978, 14.6011602
+         ]
+       },
+       "properties": {
+         "store no": "3437",
+         "channel": "Toby's Sports",
+         "address_EN": "L1 - Connecticut Carpark Bldg., Greenhills, San Juan, 1503",
+         "district": "San Juan",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          123.3034062, 8.496129999999999
+         ]
+       },
+       "properties": {
+         "store no": "3438",
+         "channel": "Wellness Concepts",
+         "address_EN": "4th Level, Mindanao Building, Trinoma Mall, North Edsa, Quezon City",
+         "district": "Quezon City",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.0548896, 14.5817664
+         ]
+       },
+       "properties": {
+         "store no": "3439",
+         "channel": "Wellness Concepts",
+         "address_EN": "4th Level, Old Wing, Shangri-la Plaza Mall, Edsa Mandaluyong City",
+         "district": "Mandaluyong",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     },
+	 
+	 	{
+       "type": "Feature",
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+          121.018495, 14.435451 
+         ]
+       },
+       "properties": {
+         "store no": "3440",
+         "channel": "JB Music & Sports",
+         "address_EN": "134 Promenade Area, Alabang Town Center, Muntinlupa",
+         "district": "Muntinlupa",
+         "area": "Philippines",
+         "phone": "",
+         "hours": "",
+         "marker-size": "medium",
+         "marker-color": "#0044FF",
+         "marker-symbol": "i"
+       }
+     }
+
+	 
+  ]
+}
